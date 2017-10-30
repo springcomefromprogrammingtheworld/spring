@@ -6,3 +6,11 @@
 3.后台布局也是基于layui框架的模板。具体:http://www.layui.com/
 
 4.后端技术采用了thinkphp3.2.3框架+mysql数据库,实现博客需求的基本功能以及thinkphp3.2.3Auth类的权限控制
+
+5.前台访问地址:http://127.0.0.1/spring/
+
+6.后台访问地址:http://127.0.0.1/spring/admin
+
+7.超级管理员账户:spring
+
+8.超级管理员密码:123456
